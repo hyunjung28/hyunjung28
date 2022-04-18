@@ -1,8 +1,7 @@
 # LEE HYUNJUNG'S DAILY COIDNG👋
-I’m currently learning Big-data with Python
+I’m currently learning Python,ML,DL
 
-
--  🌱 Tech
+-  🌱 Tech  
     Language : Python   
     OS : Windows, Linux  
     Framework+Library : Tensorflow, Keras, PyTorch  
@@ -13,10 +12,16 @@ I’m currently learning Big-data with Python
     Data Visualization : Matplotlib, Seaborn, Tableau  
     서비스 구현/배포: Flask, Django, Docker, AWS   
     협업 도구: Github  
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/><
+    
+    💬 1st Project:  
+    💬 2nd Project:  
+    💬 3rd Project:  
+    
+    
+<!-- <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/><
 <img src="https://img.shields.io/badge/Oracle-red?style=flat-square&logo=Oracle&logoColor=white"/></a>  
 <img src="https://img.shields.io/badge/Pandas-9cf?style=flat-square&logo=Pandas&logoColor=white"/></a>     
-<img src="https://img.shields.io/badge/Numpy-ff69b4?style=flat-square&logo=Numpy&logoColor=white"/></a>     
+<img src="https://img.shields.io/badge/Numpy-ff69b4?style=flat-square&logo=Numpy&logoColor=white"/></a>      -->
     
  📫 How to reach me: dlguswjd7477@naver.com
 <!--
@@ -28,7 +33,7 @@ Here are some ideas to get you started:
 - 🌱 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 
 - 📫 How to reach me: dlguswjd7477@naver.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...

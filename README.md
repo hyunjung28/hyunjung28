@@ -1,5 +1,12 @@
-### HI, I'M LEE HYUNJUNG 👋
- 🌱 I’m currently learning Big-data with Python
+# LEE HYUNJUNG'S DAILY COIDNG👋
+I’m currently learning Big-data with Python
+
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+
+Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
+AngularJS-powered HTML5 Markdown editor.
+
+-  🌱 Tech
     Language : Python 
     OS : Windows, Linux
     Framework+Library : Tensorflow, Keras, PyTorch

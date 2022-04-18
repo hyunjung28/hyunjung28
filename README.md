@@ -3,20 +3,18 @@ I’m currently learning Big-data with Python
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
-AngularJS-powered HTML5 Markdown editor.
 
 -  🌱 Tech
-    Language : Python 
-    OS : Windows, Linux
-    Framework+Library : Tensorflow, Keras, PyTorch
-    Database : Oracle
-    Development Tool : Colab, Jupyter Notebook, Vscode, sqldeveloper
-    Data Preprocessing : Pandas, Numpy, BeautifulSoup, Selenium
-    Data Analaysis : Scikit Learn,Scipy,Statmodels
-    Data Visualization : Matplotlib, Seaborn, Tableau
-    서비스 구현/배포: Flask, Django, Docker, AWS 
-    협업 도구: Github
+    Language : Python   
+    OS : Windows, Linux  
+    Framework+Library : Tensorflow, Keras, PyTorch  
+    Database : Oracle  
+    Development Tool : Colab, Jupyter Notebook, Vscode, sqldeveloper  
+    Data Preprocessing : Pandas, Numpy, BeautifulSoup, Selenium  
+    Data Analaysis : Scikit Learn,Scipy,Statmodels  
+    Data Visualization : Matplotlib, Seaborn, Tableau  
+    서비스 구현/배포: Flask, Django, Docker, AWS   
+    협업 도구: Github  
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp     
     
     

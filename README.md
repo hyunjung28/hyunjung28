@@ -16,7 +16,7 @@ I’m currently learning Big-data with Python
     서비스 구현/배포: Flask, Django, Docker, AWS   
     협업 도구: Github  
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp     
-    
+<img src="https://img.shields.io/badge/Oracle-red?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp    
     
     
     

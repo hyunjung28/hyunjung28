@@ -1,8 +1,6 @@
 # LEE HYUNJUNG'S DAILY COIDNG👋
 I’m currently learning Big-data with Python
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-
 
 -  🌱 Tech
     Language : Python   

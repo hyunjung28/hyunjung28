@@ -1,7 +1,7 @@
-# LEE HYUNJUNG'S DAILY COIDNG👋
+# Hi,there👋
 I’m currently learning Python,ML,DL
 
--  🌱 Tech  
+   🌱 Tech  
     Language : Python   
     OS : Windows, Linux  
     Framework+Library : Tensorflow, Keras, PyTorch  

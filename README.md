@@ -14,7 +14,11 @@ I’m currently learning Python,ML,DL
     협업 도구: Github  
     
     💬 1st Project:  https://github.com/leedaedoo2/cakd5_project_b
-    💬 2nd Project:  
+    📽️ YouTube : https://www.youtube.com/watch?v=kZ8Ibc4TbRc
+    
+    💬 2nd Project:  https://github.com/gitHek/cakd5_2nd_project_2team
+    📽️ YouTube :https://www.youtube.com/watch?v=NyPJ3vb-osE
+    
     💬 3rd Project:  
     
     

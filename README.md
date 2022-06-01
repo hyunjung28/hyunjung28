@@ -13,7 +13,7 @@ I’m currently learning Python,ML,DL
     서비스 구현/배포: Flask, Django, Docker, AWS   
     협업 도구: Github  
     
-    💬 1st Project:  
+    💬 1st Project:  https://github.com/leedaedoo2/cakd5_project_b
     💬 2nd Project:  
     💬 3rd Project:  
     

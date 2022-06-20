@@ -19,7 +19,8 @@ I’m currently learning Python,ML,DL
     💬 2nd Project:  https://github.com/gitHek/cakd5_2nd_project_2team
     📽️ YouTube :https://www.youtube.com/watch?v=NyPJ3vb-osE
     
-    💬 3rd Project:  
+    💬 3rd Project:  https://github.com/cakd5newdirection
+    📽️ YouTube : 
     
     
 <!-- <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/><

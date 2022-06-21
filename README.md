@@ -1,4 +1,4 @@
-# Hi,Nice to meet you👋
+# Hi,Thank you for comming👋
 I’m currently learning Python,ML,DL
 
    🌱 Tech  

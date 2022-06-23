@@ -17,13 +17,13 @@ I’m currently learning Python,ML,DL
    
  # Project 
  - 💬 1st Project :
-   -    github:  https://github.com/leedaedoo2/cakd5_project_b 
+   -   :octocat: github:  https://github.com/leedaedoo2/cakd5_project_b 
    -   📽️ YouTube :  https://www.youtube.com/watch?v=kZ8Ibc4TbRc 
 -   💬 2nd Project : 
-   -   github: https://github.com/gitHek/cakd5_2nd_project_2team 
-   -   📽️ YouTube : https://www.youtube.com/watch?v=NyPJ3vb-osE 
+    -   :octocat:github: https://github.com/gitHek/cakd5_2nd_project_2team 
+    -   📽️ YouTube : https://www.youtube.com/watch?v=NyPJ3vb-osE 
 -  💬 3rd Project:  
-   - github: https://github.com/cakd5newdirection
+   - :octocat:github: https://github.com/cakd5newdirection
    -  📽️ YouTube : 
 
     

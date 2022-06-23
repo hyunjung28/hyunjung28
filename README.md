@@ -12,15 +12,18 @@ I’m currently learning Python,ML,DL
     Data Visualization : Matplotlib, Seaborn, Tableau  
     서비스 구현/배포: Flask, Django, Docker, AWS   
     협업 도구: Github  
-     
-    💬 1st Project:  https://github.com/leedaedoo2/cakd5_project_b 
-    📽️ YouTube : https://www.youtube.com/watch?v=kZ8Ibc4TbRc 
     
-    💬 2nd Project : https://github.com/gitHek/cakd5_2nd_project_2team 
-    📽️ YouTube : https://www.youtube.com/watch?v=NyPJ3vb-osE 
-    
-    💬 3rd Project:  https://github.com/cakd5newdirection
-    📽️ YouTube : 
+   
+ - 💬 1st Project :
+   -    github:  https://github.com/leedaedoo2/cakd5_project_b 
+   -   📽️ YouTube :  https://www.youtube.com/watch?v=kZ8Ibc4TbRc 
+-   💬 2nd Project : 
+  -   github: https://github.com/gitHek/cakd5_2nd_project_2team 
+  -   📽️ YouTube : https://www.youtube.com/watch?v=NyPJ3vb-osE 
+-  💬 3rd Project:  
+  - github: https://github.com/cakd5newdirection
+  -  📽️ YouTube : 
+
     
     
 

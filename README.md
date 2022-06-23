@@ -29,7 +29,7 @@ I’m currently learning Python,ML,DL
     
     
     
-    
+</br>    
 
     
  📫 How to reach me: dlguswjd7477@naver.com

@@ -1,7 +1,7 @@
 # Hi,Thank you for comming👋
 I’m currently learning Python,ML,DL
 
-   🌱 Tech  
+   ⚒️ Tech  
     Language : Python   
     OS : Windows, Linux  
     Framework+Library : Tensorflow, Keras, PyTorch  
@@ -26,6 +26,8 @@ I’m currently learning Python,ML,DL
    - :octocat:github: https://github.com/cakd5newdirection
    -  📽️ YouTube : 
 
+    
+    
     
     
 

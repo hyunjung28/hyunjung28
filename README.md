@@ -24,7 +24,7 @@ I’m currently learning Python,ML,DL
     -   📽️ YouTube : https://www.youtube.com/watch?v=NyPJ3vb-osE 
 -  💬 3rd Project:  
    - :octocat:github: https://github.com/cakd5newdirection
-   -  📽️ YouTube : 
+   -  📽️ YouTube : https://youtu.be/WclN4I3VZlI
 
     
     

@@ -18,7 +18,7 @@ I’m currently learning Python,ML,DL
  # Project 
  - 💬 1st Project :
    -   :octocat: github:  https://github.com/leedaedoo2/cakd5_project_b 
-   -   📽️ YouTube :  https://www.youtube.com/watch?v=kZ8Ibc4TbRc 
+   -   📽️ YouTube :  https://youtu.be/WQRdTBl1lMM
 -   💬 2nd Project : 
     -   :octocat:github: https://github.com/gitHek/cakd5_2nd_project_2team 
     -   📽️ YouTube : https://www.youtube.com/watch?v=NyPJ3vb-osE 

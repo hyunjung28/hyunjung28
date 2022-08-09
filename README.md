@@ -9,8 +9,8 @@ I’m currently learning Python,ML,DL
     Development Tool : Colab, Jupyter Notebook, Vscode, sqldeveloper  
     Data Preprocessing : Pandas, Numpy, BeautifulSoup, Selenium  
     Data Analaysis : Scikit Learn,Scipy,Statmodels  
-    Data Visualization : Matplotlib, Seaborn, Tableau  
-    서비스 구현/배포: Flask, Django, Docker, AWS   
+    Data Visualization : Matplotlib, Seaborn 
+    서비스 구현/배포: Flask
     협업 도구: Github  
     
    

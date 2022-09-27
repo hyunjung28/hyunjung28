@@ -3,7 +3,7 @@ I’m currently learning Python,ML,DL
 
    ⚒️ Tech  
     Language : Python   
-    OS : Windows, Linux  
+    OS : Windows 
     Framework+Library : Tensorflow, Keras, PyTorch  
     Database : Oracle  
     Development Tool : Colab, Jupyter Notebook, Vscode, sqldeveloper  
